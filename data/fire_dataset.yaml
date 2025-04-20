@@ -1,0 +1,10 @@
+# relatives paths to data
+train: ../donnees/train/images
+val: ../donnees/valid/images
+test: ../donnees/test/images # optional
+
+# nb of classes
+nc: 2
+
+# classes names
+names: ["fire", "smoke"]
